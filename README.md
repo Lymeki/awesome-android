@@ -29,6 +29,9 @@
 1. [https://github.com/zhihu/Matisse](https://github.com/zhihu/Matisse)知乎开源的图片和视频选择器；
 2. https://github.com/Bilibili/boxing bilibili开源的多媒体选择器；
 
+#### Adapter:
+1. [https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
 #### 组合套装：
 
 1. [https://github.com/Tencent/QMUI_Android](https://github.com/Tencent/QMUI_Android)
